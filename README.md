@@ -181,6 +181,10 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 
 ## Work Culture (HD Visuals) [🔝](#--gifs-for-readme--)
 
+- Old man sit in front of the computer
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  <br><br>
+
 - Multitasking
 <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
 <br><br>
