@@ -221,10 +221,6 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
-- Girl doing WebDev
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
-<br><br>
-
 - Happy Coder
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 <br><br>
@@ -699,7 +695,7 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/504a2680-59a6-420e-b297-5ae89d68e377" width="400">
 <br><br>
 
-- How programmers feel when code doesn't works
+- How programmers feel when code doesn't work
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="400">
 <br><br>
 
@@ -871,11 +867,11 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200">
 <br><br>
 
-- How my code works?
+- How does my code work?
 <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="300">
 <br><br>
 
-- Why my code works?
+- Why does my code work?
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/330af13b-6435-4505-8a02-1869b677f9eb" width="300">
 <br><br>
 
